@@ -78,4 +78,3 @@ Ambos os projetos poderiam ser simplificados através do uso da biblioteca ja in
 
 
 
-Pronto — o link aparecerá no README e qualquer pessoa poderá abrir o arquivo clicando nele.
