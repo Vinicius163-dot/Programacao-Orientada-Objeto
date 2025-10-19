@@ -74,7 +74,7 @@ print(c.surface_area())
 ```
 
 Ambos os projetos poderiam ser simplificados através do uso da biblioteca ja inserida no python, que seria ```import math ```, porém decidi optar por estruturar as formulas de forma manual para ir se acostumando cada vez mais com a indentação do python
-</details>
+
 
 
 
